@@ -1,0 +1,5 @@
+Decargar el plugin para Kotlin, activar naturaleza Gradle y Kotlin
+
+https://teamcity.jetbrains.com/guestAuth/repository/download/Kotlin_EclipsePlugin/.lastSuccessful/
+
+Lanzar App.kt y probar en el navegador localhost:8080/coches

@@ -1,0 +1,5 @@
+#
+#Mon Mar 01 11:30:30 CET 2021
+com.example.FerBean=org.springframework.stereotype.Component
+com.example.MyBean=org.springframework.stereotype.Component
+com.example.DemoApplication=org.springframework.stereotype.Component

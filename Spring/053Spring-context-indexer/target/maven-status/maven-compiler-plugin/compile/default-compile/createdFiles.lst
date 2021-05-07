@@ -1,0 +1,4 @@
+com\example\DemoApplication.class
+META-INF\spring.components
+com\example\MyBean.class
+com\example\FerBean.class
